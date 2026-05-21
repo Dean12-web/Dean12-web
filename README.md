@@ -10,6 +10,8 @@ I'm Web Developer with hands-on experience in building and maintaining web appli
 ![NestJS](https://camo.githubusercontent.com/310afab7a680f2e7a0d7d2f8403830526c7c3fdfdb274c55ce1ec746d88dc172/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6573746a732d2532334530323334452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6573746a73266c6f676f436f6c6f723d7768697465)
 ![React](https://camo.githubusercontent.com/27d6a3309ed5f3f77b44d6363633e947c37cd5470610cf3d264ce9dcde5a1049/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
