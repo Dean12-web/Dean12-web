@@ -1,8 +1,7 @@
 ## Hi there I'm Mahyudin Akbar 👋
 
-
-
-## About Me
+## ✏️ About Me
+I'm Web Developer with hands-on experience in building and maintaining web applications using Node.js, React, and PHP frameworks (Laravel & CodeIgniter). Skilled in API development, database optimization, and application troubleshooting. Adaptive and collaborative, with strong problem-solving mindset
 
 
 
